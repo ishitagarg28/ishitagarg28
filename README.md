@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on *My Blog Application App*
 
-- 🌱 I’m currently learning *React*
+- 🌱 I’m currently learning *Backend Development*
 
 - 📫 How to reach me *ishitagarg2811@gmail.com*
 
